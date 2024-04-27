@@ -1,4 +1,4 @@
-print("first")
+print("1")
 print("2")
-print("Three")
+print("3")
 
